@@ -48,6 +48,6 @@ _Save time_ and get back to _coding_
 
 ---
 
-_We Approve_
+_Demo Time_
 
 ![alt text](./images/thumbsup9.jpg)
