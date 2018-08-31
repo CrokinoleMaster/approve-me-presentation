@@ -45,3 +45,9 @@ And _these_
 ---
 
 _Save time_ and get back to _coding_
+
+---
+
+_We Approve_
+
+![alt text](./images/thumbsup9.jpg)
