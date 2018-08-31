@@ -48,6 +48,14 @@ _Save time_ and get back to _coding_
 
 ---
 
+---
+
+_Unblock_ yourself, your coworkers
+
+Real _feedback_ in a matter of seconds
+
+---
+
 _Demo Time_
 
 ![alt text](./images/thumbsup9.jpg)
